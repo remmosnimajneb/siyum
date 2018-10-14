@@ -69,7 +69,7 @@ Here's how to install this
 	-> (Optional) Admin Credentials
 4. That's it! Now login to /admin.php and add your first Siyum!
 
-##SECTION 4 - UPDATES TO COME (MAYBE)
+## SECTION 4 - UPDATES TO COME (MAYBE)
 
 1. Allowing Siyum of Everything (Tanach, Mishna and Gemara)
 2. Locking out certain things in a Siyum (Can't pick Seder Zeraim)
